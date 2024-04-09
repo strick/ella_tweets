@@ -1,4 +1,5 @@
-import openai
+from openai import OpenAI
+
 import tweepy
 import time
 import json
